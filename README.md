@@ -16,3 +16,4 @@ A practice repo for the 3-hour Foundations lab.
 | Issues | Tracking work |
 
 - [ ] Try Copilot Chat
+See #1 for my Foundation 2 checklist.
