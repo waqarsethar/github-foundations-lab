@@ -2,3 +2,4 @@
 # Branches
 # Issues
 # PR
+commit — a saved snapshot of your changes
