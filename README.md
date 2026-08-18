@@ -3,7 +3,7 @@
   * Github issues
   * Github Pull Requests (PR's)
   * Github Branches 
-
+- Get comfortable with Issues
 # Branches
 
 # Issues
