@@ -1,4 +1,8 @@
 # My GitHub Foundations Repo
+  This is Github Lab Demo, I want to be comfortable with the following
+  * Github issues
+  * Github Pull Requests (PR's)
+  * Github Branches 
 
 # Branches
 
