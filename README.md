@@ -18,3 +18,4 @@ A practice repo for the 3-hour Foundations lab.
 - [ ] Try Copilot Chat
 
 See #1 for my Foundation 2 checklist.
+## Reflections
