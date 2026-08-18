@@ -1,8 +1,13 @@
 # My GitHub Foundations Repo
+
 # Branches
+
 # Issues
+
 # PR
+
 commit — a saved snapshot of your changes
+
 # My GitHub Foundations Repo
 
 A practice repo for the 3-hour Foundations lab.
@@ -18,4 +23,7 @@ A practice repo for the 3-hour Foundations lab.
 - [ ] Try Copilot Chat
 
 See #1 for my Foundation 2 checklist.
-## Reflections
+
+## Reflections"
+
+## Reflections 2
