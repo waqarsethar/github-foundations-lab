@@ -31,4 +31,4 @@ See #1 for my Foundation 2 checklist.
 ## Reflections"
 
 ## Reflections 2
-See #6 for my Foundation 3 checklist.
+See [#6 for my Foundation 3 checklist.](https://github.com/waqarsethar/github-foundations-lab/issues/4)
